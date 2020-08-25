@@ -1,3 +1,6 @@
+# Preview
+<img src="https://i.imgur.com/E2dXjLN.png"></img>
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
