@@ -1,5 +1,7 @@
 # Preview
 <img src="https://i.imgur.com/E2dXjLN.png"></img>
+<img src="https://i.imgur.com/KFPV7yK.png"></img>
+<img src="https://i.imgur.com/v1iksw7.png"></img>
 
 # CodeIgniter 4 Application Starter
 
